@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="24" viewBox="0 0 88 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_8" data-name="Retângulo 8" width="24" height="24" transform="translate(213 1126)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_16" data-name="Grupo 16" transform="translate(-395 -1095)">
+    <text id="LinkedIn" transform="translate(427 1115)" fill="#676767" font-size="14" font-family="OpenSans, Open Sans"><tspan x="0" y="0">LinkedIn</tspan></text>
+    <g id="Grupo_de_máscara_4" data-name="Grupo de máscara 4" transform="translate(182 -31)" clip-path="url(#clip-path)">
+      <g id="_004-linkedin" data-name="004-linkedin" transform="translate(213 1126)">
+        <path id="Caminho_10" data-name="Caminho 10" d="M23.994,24H24V15.2c0-4.306-.927-7.623-5.961-7.623a5.226,5.226,0,0,0-4.707,2.587h-.07V7.976H8.489V24h4.97V16.065c0-2.089.4-4.109,2.983-4.109,2.549,0,2.587,2.384,2.587,4.243V24Z" fill="#676767"/>
+        <path id="Caminho_11" data-name="Caminho 11" d="M.4,7.977H5.372V24H.4Z" fill="#676767"/>
+        <path id="Caminho_12" data-name="Caminho 12" d="M2.882,0A2.9,2.9,0,1,0,5.764,2.882,2.883,2.883,0,0,0,2.882,0Z" fill="#676767"/>
+      </g>
+    </g>
+  </g>
+</svg>

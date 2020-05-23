@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="24" viewBox="0 0 68 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_9" data-name="Retângulo 9" width="24" height="24" transform="translate(213 1158)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_15" data-name="Grupo 15" transform="translate(-216 -1143)">
+    <text id="Email" transform="translate(248 1161)" fill="#676767" font-size="14" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Email</tspan></text>
+    <g id="Grupo_de_máscara_5" data-name="Grupo de máscara 5" transform="translate(3 -15)" clip-path="url(#clip-path)">
+      <g id="_005-email" data-name="005-email" transform="translate(213 1158)">
+        <g id="Grupo_5" data-name="Grupo 5">
+          <g id="Grupo_4" data-name="Grupo 4">
+            <path id="Caminho_13" data-name="Caminho 13" d="M21.891,2.859H2.109a2.085,2.085,0,0,0-.9.211L11.953,13.818,14.362,11.5h0l8.432-8.432A2.085,2.085,0,0,0,21.891,2.859Z" fill="#676767" stroke="#707070" stroke-width="0.047"/>
+          </g>
+        </g>
+        <g id="Grupo_7" data-name="Grupo 7">
+          <g id="Grupo_6" data-name="Grupo 6">
+            <path id="Caminho_14" data-name="Caminho 14" d="M23.789,4.065,15.854,12l7.935,7.935a2.085,2.085,0,0,0,.211-.9V4.969A2.085,2.085,0,0,0,23.789,4.065Z" fill="#676767" stroke="#707070" stroke-width="0.047"/>
+          </g>
+        </g>
+        <g id="Grupo_9" data-name="Grupo 9">
+          <g id="Grupo_8" data-name="Grupo 8">
+            <path id="Caminho_15" data-name="Caminho 15" d="M.211,4.065a2.085,2.085,0,0,0-.211.9V19.031a2.085,2.085,0,0,0,.211.9L8.146,12Z" fill="#676767" stroke="#707070" stroke-width="0.047"/>
+          </g>
+        </g>
+        <g id="Grupo_11" data-name="Grupo 11">
+          <g id="Grupo_10" data-name="Grupo 10">
+            <path id="Caminho_16" data-name="Caminho 16" d="M14.859,12.994,12.45,15.31a.7.7,0,0,1-.994,0L9.141,12.994,1.205,20.929a2.085,2.085,0,0,0,.9.212H21.891a2.085,2.085,0,0,0,.9-.211Z" fill="#676767" stroke="#707070" stroke-width="0.047"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
